@@ -1,7 +1,3 @@
 # Vrinda-Store-Data-analysis-using-Excel
-Steps of Analysis:
-Loading the dataset,
-Data Cleaning,
-Deriving new features,
-Performing Analysis (Data Visulaization and Interactive Dashboard Creation) &
-Delivering key insights and final conclusion.
+The Vrinda Store Analysis Excel Project focuses on analyzing sales data for Vrinda Store to provide actionable insights for improving business performance. This project uses Excel to clean, analyze, and visualize data, helping to uncover trends, evaluate product performance, and optimize store operations.
+
